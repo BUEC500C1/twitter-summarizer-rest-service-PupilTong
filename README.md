@@ -1,5 +1,7 @@
 # Twitter hashtag photo video summary generator - Restful Api Version
-# Feel CRAZY about the FOOLISH CORS POLICY AND NGINX MANUAL
+## DEMO WEB APP
+https://pupiltong.github.io/twitter-summarizer-rest-service-PupilTong/
+## Feel CRAZY about the FOOLISH CORS POLICY AND NGINX MANUAL
 use 
 
 add_header Access-Control-Allow-Origin '*' always; 
